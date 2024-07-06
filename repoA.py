@@ -13,12 +13,6 @@ if config['error_repoA']:
 else:
     print("Running in RepoA,all is Good")
 
-print("testing")
-print("testing")
-print("third Test")
-print("fourth Test")
-print("fifth Test")
-print("final test ???")
 
 
 
