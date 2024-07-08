@@ -13,6 +13,7 @@ if config['error_repoA']:
 else:
     print("Running in RepoA,all is Good")
 
+print("test")
 
 
 
